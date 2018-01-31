@@ -1,0 +1,60 @@
+.content {
+	width: 851px;
+	overflow: hidden;
+	margin-top: 20px;
+}
+.content .content_title {
+	overflow: hidden;
+	border-bottom: 1px dotted #bbb;
+    padding: 10px 0;
+}
+.content .content_title h1 {
+	text-align: center;
+	line-height: 30px;
+	padding-bottom: 5px;
+	color: #007dc6;
+	font-size: 18px;
+	font-weight: bold;
+}
+.content .content_title .head_info {
+	text-align: center;
+	font-size: 14px;
+	color: #007dc6;;
+}
+.content .content_title .head_info span {
+	padding: 0 10px;
+}
+.content_main {
+	overflow: hidden;
+	padding: 10px 15px 0 15px;
+    min-height: 275px;
+} 
+.content_main .content_main_horologium {
+	width:336px;
+	height: 280px;
+	margin: 5px 15px 0 0;
+	float: left;
+	background: pink;
+}
+.content_main .content_main_mp3 {
+	width: 470px;
+	height: 43px;
+	float: right;
+	margin: 5px 0 0 0;
+	background: pink;
+}
+.content_main .content_main_info {
+	
+}
+.content_main .content_main_info p {
+	margin-top: 10px;
+	line-height: 18px;
+	padding-right: 5px;
+    text-align: justify;
+    font-size: 14px;
+    color: #000;
+}
+.content_main .content_main_info img {
+	float: left;
+	padding-right: 5px;
+}

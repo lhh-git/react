@@ -1,0 +1,42 @@
+{
+	"ret": true,
+	"data": {
+		"list": [{
+			"id": "1001",
+			"title": "Trump to Attend Davos Meeting, Trade Likely a Top Issue",
+			"pubdata": "2018-01-24",
+			"category": "AS IT IS",
+			"link": "/detail/1001"
+		}, {
+			"id": "1002",
+			"title": "Russian-Linked Twitter Accounts Not Done with US Government Shutdown",
+			"pubdata": "2018-01-24",
+			"category": "AS IT IS",
+			"link": "/detail/1002"
+		}, {
+			"id": "1003",
+			"title": "People Slowly Return to Former Rebel Stronghold of Homs",
+			"pubdata": "2018-01-24",
+			"category": "AS IT IS",
+			"link": "/detail/1003"
+		}, {
+			"id": "1004",
+			"title": "Artificial Intelligence Beats Humans in Major Reading Test",
+			"pubdata": "2018-01-24",
+			"category": "AS IT IS",
+			"link": "/detail/1004"
+		}, {
+			"id": "1005",
+			"title": "Keeping the Pressure on North Korea",
+			"pubdata": "2018-01-24",
+			"category": "AS IT IS",
+			"link": "/detail/1006"
+		}, {
+			"id": "1006",
+			"title": "Report Warns Traffic Deaths Hurt Developing Economies",
+			"pubdata": "2018-01-24",
+			"category": "AS IT IS",
+			"link": "/detail/1006"
+		}]
+	}
+}

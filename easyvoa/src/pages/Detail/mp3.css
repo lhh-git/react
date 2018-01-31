@@ -1,0 +1,27 @@
+.mp3 {
+	position: relative;
+}
+.mp3 span:hover {
+	color: red;
+}
+.mp3 .toggle .play {
+	line-height: 45px;
+	position: absolute;
+	left: 20px;
+	font-size: 26px;
+	cursor: pointer;
+}
+.mp3 .toggle .stop {
+	line-height: 45px;
+	position: absolute;
+	display: none;
+	left: 21px;
+	font-size: 23px;
+	cursor: pointer;	
+}
+.mp3 .download {
+	position: absolute;
+	right: 33px;
+	top: 11px;
+	cursor: pointer;
+}

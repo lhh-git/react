@@ -1,0 +1,15 @@
+.common {
+	margin-top: 20px;
+}
+.common-logo {
+	display: block;
+	width: 180px;
+	margin: 0 auto;
+	cursor: pointer;
+}
+.common .ant-menu-item {
+	line-height: 28px;
+}
+.common .goUrl {
+	float: right;
+}

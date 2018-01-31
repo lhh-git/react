@@ -1,0 +1,61 @@
+.nav {
+	overflow: hidden;
+	width: 1026px;
+	box-sizing:border-box;
+	border: 1px solid #FFE9D3;
+	margin: 15px auto;
+}
+.nav .navblock-left {
+	width: 115px;
+	height: 109px;
+	float: left;
+	border-right: 1px solid #FFE9D3;
+}
+.nav .navblock-middle {
+	width: 427px;
+	height: 109px;
+	float: left;
+	border-right: 1px solid #FFE9D3;
+}
+.nav .navblock-right {
+	width: 482px;
+	height: 109px;
+	float: left;
+}
+.nav .navblock ul {
+	margin-top: -5px;
+}
+.nav .navblock a {
+	font-size: 12px;
+	color: #666;
+}
+.nav .navblock a:hover {
+	color: orange;
+}
+.nav .navblock h2 {
+	height: 27px;
+	line-height: 27px;
+	background: #fdf4e5;
+	border-bottom: 1px solid #FFE9D3;
+	text-align: center;
+}
+.nav .navblock-left ul li {
+	width: 100%;
+	height: 26px;
+	line-height: 26px;
+	text-align: center;
+}
+.nav .navblock-middle ul li {
+	width: 20%;
+	height: 26px;
+	line-height: 26px;
+	float: left;
+	text-align: center;
+}
+.nav .navblock-right ul li {
+	width: 20%;
+	height: 26px;
+	line-height: 26px;
+	float: left;
+	text-align: center;
+}

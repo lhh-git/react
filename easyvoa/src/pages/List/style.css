@@ -1,0 +1,36 @@
+.listMain {
+	width: 1024px;
+	border: 1px solid #ff4444;
+}
+.listMain .title {
+	line-height: 25px;
+	background: #ff4444;;
+}
+.listMain .title .span_box {
+	margin-left: 15px;
+}
+.listMain .title .span_box span {
+	font-size: 14px;
+	color: #fff;
+	cursor: pointer;
+}
+.listMain .content {
+	margin-top: -13px;
+}
+.listMain .content .news {
+	line-height: 20px;
+	margin-bottom: 2px;
+	margin-left: 15px;
+	font-size: 15px;
+	color: #004499;  
+	cursor: pointer;
+}
+.listMain .content .news .pubdate {
+	padding-left: 15px;
+}
+.listMain .content .news .describe {
+	padding-left: 10px;
+	color: green;
+}
+
+
